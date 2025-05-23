@@ -1,0 +1,47 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific settings
+UserSettings/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Crash reports
+sysinfo.txt
+
+# Builds and exports
+*.apk
+*.aab
+*.zip
+*.exe
+*.app
+*.x86
+*.x86_64
+*.pdb
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# WebGL and local build folders
+WebGL Builds/
+Builds/
+ExportedProject/
